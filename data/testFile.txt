@@ -1,0 +1,17 @@
+G
+Mon: Rest Day
+
+Tues: Rest Day
+
+Wed: Rest Day
+
+Thurs: Rest Day
+
+Fri:
+temp name
+    d: 2x2
+
+Sat: Rest Day
+
+Sun: Rest Day
+
